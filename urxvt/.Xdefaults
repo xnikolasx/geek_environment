@@ -1,0 +1,17 @@
+URxvt.termName:	rxvt-unicode-256color
+URxvt.scrollstyle:	plain
+URxvt.thickness:	5
+URxvt.background:	#3F3F3F
+URxvt.foreground:	#DCDCCC
+URxvt.saveLines:	32768
+URxvt.scrollBar_right:	true
+URxvt.internalBorder:	5
+URxvt.externalBorder:	1
+URxvt.font:	xft:Terminus:pixelsize=14
+URxvt.cursorBlink:	true
+URxvt.perl-ext-common:	default,matcher
+URxvt.urlLauncher:	/bin/google-chrome
+URxvt.matcher.button:	1
+URxvt.keysym.C-Delete:	perl:matcher:last
+URxvt.keysym.M-Delete:	perl:matcher:list
+URxvt.colorUL:	#00CC00
