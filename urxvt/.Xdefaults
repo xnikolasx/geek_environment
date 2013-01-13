@@ -1,4 +1,4 @@
-URxvt.termName:	rxvt-unicode-256color
+URxvt.termName: xterm
 URxvt.scrollstyle:	plain
 URxvt.thickness:	5
 URxvt.background:	#3F3F3F
