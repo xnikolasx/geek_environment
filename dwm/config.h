@@ -23,7 +23,7 @@ static const char *tags[] = {
 	"media /",  // 5
 	"6 /",
 	"7 /",
-	"8 /",
+	"srv /",    // 8
 	"sys ]"     // 9
 };
 
