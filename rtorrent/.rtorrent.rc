@@ -1,0 +1,2 @@
+directory = /home/nikolas/downloads/torrents
+schedule = watch_directory,5,5,load_start=/home/nikolas/downloads/*.torrent
